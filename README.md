@@ -1,6 +1,6 @@
+![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, My name is Safiyatul Hoque
 #### I am a Web Developer
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
 
