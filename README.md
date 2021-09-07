@@ -38,17 +38,19 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### Favorite Games:
 
-<p>
+<img src='https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g' alt='littleNightmares' height='80'> &nbsp;&nbsp; <img src='https://media1.giphy.com/media/wNiTFhWCdlC8g/100.webp?cid=ecf05e470r1nypi9rlkntm7olfxivo35kn5xzqz4hzd0yr1n&rid=100.webp&ct=g' alt='GTAV' height='80'> &nbsp;&nbsp;            <img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>                                                                                      <img src='https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png' alt='js' height='30'>                                 
+
+<!-- <p>
   <a href="">
   <img align="center" height='50' src="https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g" />
   </a>
 
   <a href="">
-    <img align="center" height='50' src="https://giphy.com/gifs/grand-theft-auto-gtav-wNiTFhWCdlC8g/fullscreen" />
+    <img align="center" height='50' src="https://media1.giphy.com/media/wNiTFhWCdlC8g/100.webp?cid=ecf05e470r1nypi9rlkntm7olfxivo35kn5xzqz4hzd0yr1n&rid=100.webp&ct=g" />
   </a>
   
 </p>
-
+ -->
 
 <br>
 
