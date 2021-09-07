@@ -47,7 +47,7 @@
 
 <p>
   <a href="">
-  <img align="right" height='170' src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+  <img align="right" height='170' src="https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -55,5 +55,3 @@
   </a>
   
 </p>
-
-hello
