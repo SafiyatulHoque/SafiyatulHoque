@@ -15,7 +15,7 @@
 
 <br>
 
-- 🔭 I’m currently working on nothing at all 😉 
+-> 🔭 I’m currently working on nothing at all 😉 
 - 🌱 I’m currently learning Software Development 📲 
 - 👯 I’m looking to collaborate on a basic coding strategy 😺 
 - 🤔 I’m looking for help with Competitive Problem Solving 😌 
