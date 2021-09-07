@@ -34,21 +34,21 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ### Languages and Tools:
 <img src='https://image.flaticon.com/icons/png/512/888/888859.png' alt='html' height='30'> &nbsp;&nbsp;                                                                             <img src='https://image.flaticon.com/icons/png/512/919/919841.png' alt='c++' height='30'> &nbsp;&nbsp;                                                                             <img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>                                                                                      <img src='https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png' alt='js' height='30'>                                  <img src='https://image.flaticon.com/icons/png/512/3036/3036398.png' alt='php' height='30'> &nbsp;&nbsp;                                                                        <img src='https://image.flaticon.com/icons/png/512/5210/5210800.png' alt='adobeps' height='30'> &nbsp;&nbsp;                                                                    <img src='https://image.flaticon.com/icons/png/512/143/143670.png' alt='adobeillustrator' height='30'> &nbsp;&nbsp;                                                             <img src='https://image.flaticon.com/icons/png/512/688/688066.png' alt='adobeXD' height='30'> &nbsp;&nbsp;                                                                      <img src='https://image.flaticon.com/icons/png/512/955/955477.png' alt='html' height='30'> &nbsp;&nbsp;
 
-<br>
 
-### Languages and Tools:
 
+### Favorite Games:
 
 <p>
   <a href="">
-  <img align="center" height='170' src="https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g" />
+  <img align="center" height='50' src="https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g" />
   </a>
 
   <a href="">
-    <img align="center" src="https://giphy.com/gifs/grand-theft-auto-gtav-wNiTFhWCdlC8g/fullscreen" />
+    <img align="center" height='50' src="https://giphy.com/gifs/grand-theft-auto-gtav-wNiTFhWCdlC8g/fullscreen" />
   </a>
   
 </p>
+
 
 <br>
 
