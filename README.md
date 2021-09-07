@@ -11,7 +11,7 @@
 
 <br> <br>
 
-<p style="color:rgb(52, 91, 99);">I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University. </p>
+I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
