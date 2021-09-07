@@ -1,4 +1,4 @@
-![I am a Web Developer](https://scontent.fcgp27-1.fna.fbcdn.net/v/t1.6435-9/88959151_1508313356002462_8372852354856255488_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=XNppbWyo--IAX8b-0UY&_nc_ht=scontent.fcgp27-1.fna&oh=5c5a9163b80c8f5b18c0fbc98d3c718d&oe=615D67DB)
+![I am a Web Developer](https://github.com/SafiyatulHoque/SafiyatulHoque/blob/main/Safayat%20Mawa.jpg)
 # Hi there 👋, My name is Safiyatul Hoque
 ## I am a Web Developer
 
