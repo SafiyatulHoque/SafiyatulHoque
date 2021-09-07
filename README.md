@@ -25,9 +25,17 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <br>
 
-### CONTACT WITH ME
+### CONTACT WITH ME:
 
 [<img src='https://image.flaticon.com/icons/png/512/889/889111.png' alt='github' height='30'>](https://github.com/SafiyatulHoque) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/145/145807.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/safiyatul-hoque-0433b0ab/) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/145/145802.png' alt='facebook' height='30'>](https://www.facebook.com/safayatul.hoque.7) &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/733/733579.png' alt='twitter' height='30'>](https://twitter.com/SafayatulHoqueS)  &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/2626/2626299.png' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15285796) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/2111/2111589.png' alt='Reddit' height='30'>](https://www.reddit.com/user/SafiyatulHoque) &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/1927/1927768.png' alt='website' height='30'>](https://safiyatulhoque.com/)   &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/1377/1377230.png' alt='behance' height='30'>](https://www.behance.net/safayatulhoque)  
+
+<br>
+
+### Languages and Tools:
+<img src='https://image.flaticon.com/icons/png/512/888/888859.png' alt='html' height='30'>
+<img src='https://image.flaticon.com/icons/png/512/919/919841.png' alt='c++' height='30'>
+<img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>
+<img src='https://as1.ftcdn.net/v2/jpg/02/49/94/34/500_F_249943490_P7KwlZJJuxfS3m85xPG6bkuAmFUhdiZs.jpg' alt='js' height='30'>
 
 <br>
 
