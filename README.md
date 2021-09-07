@@ -2,6 +2,10 @@
 # Hi there 👋, My name is Safiyatul Hoque
 ## I am a Web Developer
 
+<a href="">
+  <img align="center" height='170' src="https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical" />
+</a>
+
 I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
 
 Skills: VUE JS / REACT / JS / HTML / CSS
