@@ -3,7 +3,7 @@
 ## I am a Web Developer
 
 <a href="">
-  <img align="center" height='170' src="https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical" />
+  <img align="center" height='170' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761136576cafafabb046a982e82201c5696f1d27ffa4&rid=giphy.gif&ct=g" />
 </a>
 
 I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
