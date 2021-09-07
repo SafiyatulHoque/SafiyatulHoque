@@ -1,5 +1,6 @@
 ![I am a Web Developer](https://github.com/SafiyatulHoque/SafiyatulHoque/blob/main/Safayat%20Mawa.jpg)
 # Hi there 👋, My name is Safiyatul Hoque
+<h1 style="color:#00A19D">This is a paragraph.</h1>
 ## I am a Web Developer
 
 <br>
