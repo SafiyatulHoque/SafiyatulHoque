@@ -13,7 +13,7 @@
 
 I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<br>
 
 - 🔭 I’m currently working on nothing at all 😉 
 - 🌱 I’m currently learning Software Development 📲 
