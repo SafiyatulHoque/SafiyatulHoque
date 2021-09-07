@@ -26,5 +26,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&layout=compact" />
 </a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&hide=php&theme=tokyonight=compact;
-
