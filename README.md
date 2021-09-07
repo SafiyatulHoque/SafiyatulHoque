@@ -17,8 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://image.flaticon.com/icons/png/512/889/889111.png' alt='github' height='30'>](https://github.com/SafiyatulHoque) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/145/145807.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/safiyatul-hoque-0433b0ab/) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/145/145802.png' alt='facebook' height='30'>](https://www.facebook.com/safayatul.hoque.7) &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/733/733579.png' alt='twitter' height='30'>](https://twitter.com/SafayatulHoqueS)  &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/2626/2626299.png' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15285796) &nbsp;&nbsp;   [<img src='https://image.flaticon.com/icons/png/512/2111/2111589.png' alt='Reddit' height='30'>](https://www.reddit.com/user/SafiyatulHoque) &nbsp;&nbsp;  [<img src='https://image.flaticon.com/icons/png/512/1927/1927768.png' alt='website' height='30'>](https://safiyatulhoque.com/)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical)
