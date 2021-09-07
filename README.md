@@ -38,19 +38,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### Favorite Games:
 
-<img src='https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g' alt='littleNightmares' height='80'> &nbsp;&nbsp; <img src='https://media1.giphy.com/media/wNiTFhWCdlC8g/100.webp?cid=ecf05e470r1nypi9rlkntm7olfxivo35kn5xzqz4hzd0yr1n&rid=100.webp&ct=g' alt='GTAV' height='80'> &nbsp;&nbsp;            <img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>                                                                                      <img src='https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png' alt='js' height='30'>                                 
-
-<!-- <p>
-  <a href="">
-  <img align="center" height='50' src="https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g" />
-  </a>
-
-  <a href="">
-    <img align="center" height='50' src="https://media1.giphy.com/media/wNiTFhWCdlC8g/100.webp?cid=ecf05e470r1nypi9rlkntm7olfxivo35kn5xzqz4hzd0yr1n&rid=100.webp&ct=g" />
-  </a>
-  
-</p>
- -->
+<img src='https://media3.giphy.com/media/rmnfAGbN4VhwOcbEbS/giphy.gif?cid=ecf05e47tvr8fkh4nqm9n1lcmqtmvb47u7irvommyi8ky80b&rid=giphy.gif&ct=g' alt='littleNightmares' height='80'> &nbsp;&nbsp; <img src='https://media1.giphy.com/media/wNiTFhWCdlC8g/100.webp?cid=ecf05e470r1nypi9rlkntm7olfxivo35kn5xzqz4hzd0yr1n&rid=100.webp&ct=g' alt='GTAV' height='80'> &nbsp;&nbsp;                                                                                                                                                                    <img src='https://media4.giphy.com/media/RhYLzVUsyK5vDdQLS6/200w.webp?cid=ecf05e47ngmnld9q1meq0qdhm8vg2e1mod5jrr2aqgdqb2z9&rid=200w.webp&ct=g' alt='mortalKombat' height='80'>      <img src='https://media4.giphy.com/media/LlNL8PhsdFBBblE76A/giphy.gif?cid=ecf05e47u7o7jfp1tag0tn3v55aoy5l3re6pthflpdm2x0wc&rid=giphy.gif&ct=g' alt='COC' height='80'>                                 
 
 <br>
 
