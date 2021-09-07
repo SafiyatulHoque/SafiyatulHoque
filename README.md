@@ -21,7 +21,7 @@
 - 🤔 I’m looking for help with Competitive Problem Solving 😌 
 - 💬 Ask me about Basic C / C++ / Java / HTML / JS / PHP / CSS 
 - 📫 How to reach me: https://www.facebook.com/safayatul.hoque.7/ 
-- 📧
+- 📧 Email me on: 
 - ⚡ Fun Fact: Can't Even Count 😁 
 
 <br>
