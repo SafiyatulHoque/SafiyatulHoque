@@ -36,20 +36,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <br>
 
-
-<p>
-  <a href="">
-  <img align="right" height='170' src="https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&layout=compact" />
-  </a>
-  
-</p>
-
-
-<br>
+### Languages and Tools:
 
 
 <p>
@@ -59,6 +46,20 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
   <a href="">
     <img align="center" src="https://giphy.com/gifs/grand-theft-auto-gtav-wNiTFhWCdlC8g/fullscreen" />
+  </a>
+  
+</p>
+
+<br>
+
+
+<p>
+  <a href="">
+  <img align="right" height='170' src="https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&layout=compact" />
   </a>
   
 </p>
