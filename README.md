@@ -13,8 +13,8 @@
   </a>
 </p>
 
-
-I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
+<p>
+  I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -25,6 +25,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Basic C / C++ / Java / HTML / JS / PHP / CSS 
 - 📫 How to reach me: https://www.facebook.com/safayatul.hoque.7/ 
 - ⚡ Fun Fact: Can't Even Count 😁 
+
+</p>
 <br>
 
 
