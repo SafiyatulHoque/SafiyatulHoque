@@ -32,7 +32,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <br>
 
 ### Languages and Tools:
-<img src='https://image.flaticon.com/icons/png/512/888/888859.png' alt='html' height='30'>                                                                                      <img src='https://image.flaticon.com/icons/png/512/919/919841.png' alt='c++' height='30'>                                                                                       <img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>                                                                                      <img src='https://as1.ftcdn.net/v2/jpg/02/49/94/34/500_F_249943490_P7KwlZJJuxfS3m85xPG6bkuAmFUhdiZs.jpg' alt='js' height='30'>
+<img src='https://image.flaticon.com/icons/png/512/888/888859.png' alt='html' height='30'>                                                                                      <img src='https://image.flaticon.com/icons/png/512/919/919841.png' alt='c++' height='30'>                                                                                       <img src='https://image.flaticon.com/icons/png/512/226/226777.png' alt='java' height='30'>                                                                                      <img src='https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png' alt='js' height='30'>
 
 <br>
 
