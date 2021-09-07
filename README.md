@@ -53,5 +53,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyatulHoque&layout=compact" />
   </a>
-  
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SafiyatulHoque&show_icons=true&theme=radical)
+
