@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on nothing at all 😉 
 - 🌱 I’m currently learning Software Development 📲 
-- 👯 I’m looking to collaborate on a basic coding strategy 😺 
+- 👯 I’m looking to collaborate on basic coding strategy 😺 
 - 🤔 I’m looking for help with Competitive Problem Solving 😌 
 - 💬 Ask me about Basic C / C++ / Java / HTML / JS / PHP / CSS 
 - 📫 How to reach me: https://www.facebook.com/safayatul.hoque.7/ 
