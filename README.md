@@ -2,11 +2,13 @@
 # Hi there 👋, My name is Safiyatul Hoque
 ## I am a Web Developer
 
+<br>
+
 <a href="">
   <img align="center" height='170' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761136576cafafabb046a982e82201c5696f1d27ffa4&rid=giphy.gif&ct=g" />
 </a>
 
-<br><br><br>
+<br><br>
 
 I am from a little country named Bangladesh. Currently, I am studying Computer Science at North South University.  
 
